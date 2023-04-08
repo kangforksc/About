@@ -1,6 +1,6 @@
-# Airdropdrone 
+# Kangforksc
 
-Hello, I'm airdropdrone
+Hello, I'm kangforksc
 
 My work is not that many but you might be interested in reading all or seeing all of my repository.
 
